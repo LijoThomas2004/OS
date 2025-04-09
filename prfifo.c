@@ -25,7 +25,7 @@ void main(){
      for(j=0;j<f;j++)
       printf("%d\t",m[j]);
       if(k==f)
-        printf("\t PAGE NO:%d",pf);
+        printf("\t PF NO:%d",pf);
         printf("\n");
       if(count==f)
        count=0;
